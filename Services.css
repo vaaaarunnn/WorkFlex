@@ -1,10 +1,13 @@
 #container{
-  background-image: url("https://www.shutterstock.com/image-photo/japanese-traditional-paper-background-washi-600nw-1763152742.jpg");
+  background-image: wheat;
   
 }
 .header h2{
   text-align: left;
   
+}
+.logo{
+  width: 250px;
 }
 .fa {
   padding: 20px;
@@ -22,17 +25,12 @@
   background: #007bb5;
   color: white;
 }
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
 .fa-instagram {
   background: #125688;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
   color: white;
 }
 
